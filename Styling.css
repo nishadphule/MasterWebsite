@@ -1,0 +1,50 @@
+div{
+    background-color:#C0EEE4;
+    padding: 20px;
+
+}
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Chivo Mono', monospace;
+    font-size: 170%;
+}
+h1{
+    font-style: italic;
+    margin-top: 0%;
+    font-family: 'Sacramento', cursive;
+    font-size: 300%;
+}
+.top{
+    background-color: #C0EEE4;
+    position: relative;
+    padding-top: 100px;
+    
+}    
+
+.bottomcloud{
+    position: absolute;
+    left: 20%;
+    bottom: 300px;
+    
+}
+.topcloud{
+    position: absolute;
+    top: 50px;
+    right: 20%;
+}
+.stitle{
+    font-style: italic;
+    font-family: 'Sacramento', cursive;
+    font-size: 300%;
+}
+.Htitle{
+    font-style: italic;
+    font-family: 'Sacramento', cursive;
+    font-size: 300%;
+}
+.Gtouch{
+    font-style: italic;
+    font-family: 'Sacramento', cursive;
+    font-size: 300%;
+}
